@@ -1,0 +1,19 @@
+1. "Introduction to Algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
+
+2. "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
+
+3. "Structure and Interpretation of Computer Programs" by Harold Abelson, Gerald Jay Sussman, and Julie Sussman
+
+4. "Code Complete: A Practical Handbook of Software Construction" by Steve McConnell
+
+5. "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
+
+6. "The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas
+
+7. "Computer Networking: Principles, Protocols and Practice" by Olivier Bonaventure
+
+8. "Database Management Systems" by Raghu Ramakrishnan and Johannes Gehrke
+
+9. "Operating System Concepts" by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne
+
+10. "Computer Systems: A Programmer's Perspective" by Randal E. Bryant and David R. O'Hallaron

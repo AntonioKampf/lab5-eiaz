@@ -1,0 +1,7 @@
+Computer Science is a broad field of knowledge that deals with the study of the theory, development, and application of
+computer systems software and hardware. Including various disciplines such as algorithms, data structures, artificial
+intelligence, theory of computation, programming, computer architecture, networking, databases, and many
+others, computer science covers a wide range of topics related to the creation and use of computing systems.Computer
+science professionals may be involved in software development, hardware systems design, artificial intelligence
+research, data analysis, cybersecurity, web application
+development, and many other aspects related to information systems technology.
